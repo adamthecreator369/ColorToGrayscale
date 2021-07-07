@@ -8,7 +8,6 @@ Original
 
 <br>
 <br>
-Image created by the program:
-<br>
+Image created by the program
 <br>
 <img width="599" alt="Screen Shot 2021-07-06 at 10 35 27 PM" src="https://user-images.githubusercontent.com/78386606/124696405-a345cf80-deaa-11eb-807c-a7aa857dc517.png">
